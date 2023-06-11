@@ -6,12 +6,14 @@
         margin-top: -280px;*/
 }
 
+
 .ds4 .trigger {
     width: 99px;
     height: 100%;
     background: url(triggers.png);
     opacity: 0;
 }
+
 
 .ds4 .bumper {
     width: 99px;
@@ -34,12 +36,14 @@
     background: url(face.png);
 }
 
+
 .ds4 .stick {
     position: absolute;
     background: url(sticks.png);
     height: 94px;
     width: 94px;
 }
+
 
 .ds4 .face {
     background: url(dpad.png);
